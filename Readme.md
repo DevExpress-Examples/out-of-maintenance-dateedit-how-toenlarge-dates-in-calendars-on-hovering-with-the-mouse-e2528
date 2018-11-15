@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DateEditExtender.cs](./CS/WindowsApplication3/DateEditExtender.cs) (VB: [DateEditExtender.vb](./VB/WindowsApplication3/DateEditExtender.vb))
+* [Form1.cs](./CS/WindowsApplication3/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication3/Form1.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+<!-- default file list end -->
 # DateEdit - How to enlarge dates in calendars on hovering with the mouse
 
 
